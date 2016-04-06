@@ -1,0 +1,518 @@
+/* line 1, C:/Users/Developer/Desktop/Me/styles.scss */
+html {
+  font-size: 100%; }
+
+/* line 4, C:/Users/Developer/Desktop/Me/styles.scss */
+body {
+  font-family: 'Open Sans';
+  background-color: #FFFFFF;
+  cursor: default;
+  font-size: 1em; }
+
+/* line 12, C:/Users/Developer/Desktop/Me/styles.scss */
+body > header {
+  font-size: 1.4em;
+  padding-bottom: 0.7em;
+  padding-top: 4em;
+  background-color: #36B310;
+  animation: backgroundColor 30s infinite;
+  -webkit-animation: backgroundColor 30s infinite;
+  -moz-animation: backgroundColor 30s infinite;
+  -ms-animation: backgroundColor 30s infinite;
+  -o-animation: backgroundColor 30s infinite; }
+  /* line 22, C:/Users/Developer/Desktop/Me/styles.scss */
+  body > header h1 {
+    text-align: center;
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 300;
+    margin-bottom: 3.5em;
+    padding: 0em 5%;
+    color: #FFF;
+    line-height: 1.5em; }
+    @media (min-width: 400px) {
+      /* line 22, C:/Users/Developer/Desktop/Me/styles.scss */
+      body > header h1 {
+        font-size: 1.1em; } }
+    @media (min-width: 1450px) {
+      /* line 22, C:/Users/Developer/Desktop/Me/styles.scss */
+      body > header h1 {
+        margin: 0.5em 0% 4.3em 0%; } }
+    @media (min-width: 1600px) {
+      /* line 22, C:/Users/Developer/Desktop/Me/styles.scss */
+      body > header h1 {
+        font-size: 1.13em;
+        margin: 0.7em 0% 4.3em 0%; } }
+    @media (min-width: 1750px) {
+      /* line 22, C:/Users/Developer/Desktop/Me/styles.scss */
+      body > header h1 {
+        margin: 0.9em 0% 4.4em 0%; } }
+    @media (min-width: 1800px) {
+      /* line 22, C:/Users/Developer/Desktop/Me/styles.scss */
+      body > header h1 {
+        font-size: 1.215em;
+        margin: 1.7em 0% 5.1em 0%; } }
+  /* line 49, C:/Users/Developer/Desktop/Me/styles.scss */
+  body > header .social-icons {
+    color: #FFFFFF;
+    color: rgba(255, 255, 255, 0.72);
+    text-align: right;
+    margin-left: auto;
+    margin-right: 3%; }
+    @media (min-width: 600px) {
+      /* line 49, C:/Users/Developer/Desktop/Me/styles.scss */
+      body > header .social-icons {
+        font-size: 0.85em; } }
+    /* line 59, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > header .social-icons a {
+      padding-right: 2.1%;
+      text-decoration: none;
+      color: rgba(255, 255, 255, 0.8); }
+    @media (min-width: 900px) {
+      /* line 49, C:/Users/Developer/Desktop/Me/styles.scss */
+      body > header .social-icons {
+        margin-right: 2%; }
+        /* line 66, C:/Users/Developer/Desktop/Me/styles.scss */
+        body > header .social-icons a {
+          padding-right: 1.7%; } }
+    @media (min-width: 1650px) {
+      /* line 71, C:/Users/Developer/Desktop/Me/styles.scss */
+      body > header .social-icons a {
+        padding-right: 1.1%; } }
+    /* line 75, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > header .social-icons a:hover {
+      color: #FFF;
+      cursor: pointer; }
+
+/* line 82, C:/Users/Developer/Desktop/Me/styles.scss */
+.container, body > main .skills-container, body > main .mail-container {
+  padding-top: 2em;
+  padding-bottom: 2em; }
+  @media (min-width: 1800px) {
+    /* line 82, C:/Users/Developer/Desktop/Me/styles.scss */
+    .container, body > main .skills-container, body > main .mail-container {
+      padding: 3em 0%; } }
+
+/* line 91, C:/Users/Developer/Desktop/Me/styles.scss */
+body > main .skills-container {
+  padding-right: 5%;
+  padding-left: 5%;
+  text-align: center; }
+  @media (max-width: 999px) {
+    /* line 91, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > main .skills-container {
+      padding-top: 1em;
+      padding-bottom: 1em; } }
+  @media (min-width: 1000px) {
+    /* line 91, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > main .skills-container {
+      padding-top: 1.5em;
+      padding-bottom: 1.5em; } }
+  @media (min-width: 1800px) {
+    /* line 91, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > main .skills-container {
+      padding: 3em 0%; } }
+  /* line 109, C:/Users/Developer/Desktop/Me/styles.scss */
+  body > main .skills-container .skills {
+    font-size: 0.8em;
+    margin-right: auto;
+    margin-left: auto; }
+    @media (min-width: 450px) {
+      /* line 109, C:/Users/Developer/Desktop/Me/styles.scss */
+      body > main .skills-container .skills {
+        font-size: 0.7em; } }
+    @media (min-width: 700px) {
+      /* line 109, C:/Users/Developer/Desktop/Me/styles.scss */
+      body > main .skills-container .skills {
+        font-size: 0.65em; } }
+    @media (min-width: 1300px) {
+      /* line 109, C:/Users/Developer/Desktop/Me/styles.scss */
+      body > main .skills-container .skills {
+        width: 1200px; } }
+    @media (min-width: 1800px) {
+      /* line 109, C:/Users/Developer/Desktop/Me/styles.scss */
+      body > main .skills-container .skills {
+        width: 1500px; } }
+    /* line 127, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > main .skills-container .skills h3 {
+      font-weight: normal;
+      display: inline-block;
+      padding-right: 5%;
+      padding-left: 5%;
+      text-align: center;
+      transition: transform 0.7s ease-out;
+      -webkit-transition: transform 0.7s ease-out;
+      cursor: pointer;
+      margin: 0.65em 0%; }
+      /* line 137, C:/Users/Developer/Desktop/Me/styles.scss */
+      body > main .skills-container .skills h3:hover {
+        transform: scale(1.15); }
+      @media (min-width: 1000px) {
+        /* line 127, C:/Users/Developer/Desktop/Me/styles.scss */
+        body > main .skills-container .skills h3 {
+          padding-right: 3%;
+          padding-left: 3%; } }
+      @media (min-width: 1800px) {
+        /* line 127, C:/Users/Developer/Desktop/Me/styles.scss */
+        body > main .skills-container .skills h3 {
+          padding-right: 1%;
+          padding-left: 1%; } }
+    /* line 149, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > main .skills-container .skills #java {
+      font-size: 1.65em;
+      color: #58839F; }
+    /* line 153, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > main .skills-container .skills #node-js {
+      font-size: 1.5em;
+      color: #80BD01; }
+    /* line 157, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > main .skills-container .skills #oop {
+      font-size: 1.4em; }
+    /* line 160, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > main .skills-container .skills #sql {
+      color: #044A64;
+      font-size: 1.65em; }
+    /* line 164, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > main .skills-container .skills #android {
+      color: #A4C439;
+      font-size: 1.5em; }
+    /* line 168, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > main .skills-container .skills #html {
+      color: #E34C26;
+      font-size: 1.65em; }
+    /* line 172, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > main .skills-container .skills #css {
+      font-size: 1.65em;
+      color: #1572B6; }
+    /* line 176, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > main .skills-container .skills #scss {
+      font-size: 1.5em;
+      color: #CF649A; }
+    /* line 180, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > main .skills-container .skills #jquery {
+      color: #0868AB;
+      font-size: 1.6em; }
+    /* line 184, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > main .skills-container .skills #git {
+      font-size: 1.4em;
+      color: #F05033; }
+    /* line 188, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > main .skills-container .skills #wordpress {
+      color: #464442;
+      font-size: 1.65em; }
+    /* line 192, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > main .skills-container .skills #php {
+      font-size: 1.1em; }
+    /* line 195, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > main .skills-container .skills #javascript {
+      font-size: 1.4em; }
+
+/* line 200, C:/Users/Developer/Desktop/Me/styles.scss */
+body > main .mail-container {
+  background-color: #131313;
+  box-shadow: inset 0px 0px 45px black;
+  text-align: center; }
+  @media (min-width: 750px) {
+    /* line 200, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > main .mail-container {
+      padding-top: 3em;
+      padding-bottom: 3em; } }
+  /* line 211, C:/Users/Developer/Desktop/Me/styles.scss */
+  body > main .mail-container .mail {
+    font-size: 1em;
+    margin-right: auto;
+    margin-left: auto; }
+    @media (min-width: 450px) {
+      /* line 211, C:/Users/Developer/Desktop/Me/styles.scss */
+      body > main .mail-container .mail {
+        font-size: 1.3em; }
+        /* line 220, C:/Users/Developer/Desktop/Me/styles.scss */
+        body > main .mail-container .mail i {
+          font-size: 1.5em; } }
+    @media (min-width: 750px) {
+      /* line 211, C:/Users/Developer/Desktop/Me/styles.scss */
+      body > main .mail-container .mail {
+        font-size: 1.4em; } }
+    @media (min-width: 1800px) {
+      /* line 211, C:/Users/Developer/Desktop/Me/styles.scss */
+      body > main .mail-container .mail {
+        font-size: 1.5em; } }
+    /* line 233, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > main .mail-container .mail h2 {
+      font-weight: normal;
+      color: #FFF; }
+    /* line 237, C:/Users/Developer/Desktop/Me/styles.scss */
+    body > main .mail-container .mail i {
+      padding-left: 2%;
+      display: none; }
+      @media (min-width: 400px) {
+        /* line 237, C:/Users/Developer/Desktop/Me/styles.scss */
+        body > main .mail-container .mail i {
+          display: inline-block; } }
+      @media (min-width: 1800px) {
+        /* line 237, C:/Users/Developer/Desktop/Me/styles.scss */
+        body > main .mail-container .mail i {
+          padding-left: 1%;
+          font-size: 1.4em; } }
+
+/* line 253, C:/Users/Developer/Desktop/Me/styles.scss */
+.typed-cursor {
+  opacity: 1;
+  -webkit-animation: blink 0.7s infinite;
+  -moz-animation: blink 0.7s infinite;
+  animation: blink 0.7s infinite; }
+
+@keyframes backgroundColor {
+  0% {
+    background-color: #36B310;
+    box-shadow: inset 0px -20px 62px #29800E; }
+  10% {
+    background-color: #10B393;
+    box-shadow: inset 0px -20px 62px #0E8061; }
+  20% {
+    background-color: #109CB3;
+    box-shadow: inset 0px -20px 62px #0E6C80; }
+  30% {
+    background-color: #6F10B3;
+    box-shadow: inset 0px -20px 62px #500E80; }
+  40% {
+    background-color: #B110B3;
+    box-shadow: inset 0px -20px 62px #720E80; }
+  50% {
+    background-color: #B31048;
+    box-shadow: inset 0px -20px 62px #800E29; }
+  60% {
+    background-color: #B31010;
+    box-shadow: inset 0px -20px 62px #800E0E; }
+  70% {
+    background-color: #DDDE06;
+    box-shadow: inset 0px -20px 62px #A1A206; }
+  80% {
+    background-color: #B37B10;
+    box-shadow: inset 0px -20px 62px #80550E; }
+  90% {
+    background-color: #90B310;
+    box-shadow: inset 0px -20px 62px #70800E; }
+  100% {
+    background-color: #36B310;
+    box-shadow: inset 0px -20px 62px #29800E; } }
+
+@-moz-keyframes backgroundColor {
+  0% {
+    background-color: #36B310;
+    box-shadow: inset 0px -20px 62px #29800E; }
+  10% {
+    background-color: #10B393;
+    box-shadow: inset 0px -20px 62px #0E8061; }
+  20% {
+    background-color: #109CB3;
+    box-shadow: inset 0px -20px 62px #0E6C80; }
+  30% {
+    background-color: #6F10B3;
+    box-shadow: inset 0px -20px 62px #500E80; }
+  40% {
+    background-color: #B110B3;
+    box-shadow: inset 0px -20px 62px #720E80; }
+  50% {
+    background-color: #B31048;
+    box-shadow: inset 0px -20px 62px #800E29; }
+  60% {
+    background-color: #B31010;
+    box-shadow: inset 0px -20px 62px #800E0E; }
+  70% {
+    background-color: #DDDE06;
+    box-shadow: inset 0px -20px 62px #A1A206; }
+  80% {
+    background-color: #B37B10;
+    box-shadow: inset 0px -20px 62px #80550E; }
+  90% {
+    background-color: #90B310;
+    box-shadow: inset 0px -20px 62px #70800E; }
+  100% {
+    background-color: #36B310;
+    box-shadow: inset 0px -20px 62px #29800E; } }
+
+@-webkit-keyframes backgroundColor {
+  0% {
+    background-color: #36B310;
+    box-shadow: inset 0px -20px 62px #29800E; }
+  10% {
+    background-color: #10B393;
+    box-shadow: inset 0px -20px 62px #0E8061; }
+  20% {
+    background-color: #109CB3;
+    box-shadow: inset 0px -20px 62px #0E6C80; }
+  30% {
+    background-color: #6F10B3;
+    box-shadow: inset 0px -20px 62px #500E80; }
+  40% {
+    background-color: #B110B3;
+    box-shadow: inset 0px -20px 62px #720E80; }
+  50% {
+    background-color: #B31048;
+    box-shadow: inset 0px -20px 62px #800E29; }
+  60% {
+    background-color: #B31010;
+    box-shadow: inset 0px -20px 62px #800E0E; }
+  70% {
+    background-color: #DDDE06;
+    box-shadow: inset 0px -20px 62px #A1A206; }
+  80% {
+    background-color: #B37B10;
+    box-shadow: inset 0px -20px 62px #80550E; }
+  90% {
+    background-color: #90B310;
+    box-shadow: inset 0px -20px 62px #70800E; }
+  100% {
+    background-color: #36B310;
+    box-shadow: inset 0px -20px 62px #29800E; } }
+
+@-ms-keyframes backgroundColor {
+  /* line 403, C:/Users/Developer/Desktop/Me/styles.scss */
+  0% {
+    background-color: #36B310;
+    box-shadow: inset 0px -20px 62px #29800E; }
+  /* line 407, C:/Users/Developer/Desktop/Me/styles.scss */
+  10% {
+    background-color: #10B393;
+    box-shadow: inset 0px -20px 62px #0E8061; }
+  /* line 411, C:/Users/Developer/Desktop/Me/styles.scss */
+  20% {
+    background-color: #109CB3;
+    box-shadow: inset 0px -20px 62px #0E6C80; }
+  /* line 415, C:/Users/Developer/Desktop/Me/styles.scss */
+  30% {
+    background-color: #6F10B3;
+    box-shadow: inset 0px -20px 62px #500E80; }
+  /* line 419, C:/Users/Developer/Desktop/Me/styles.scss */
+  40% {
+    background-color: #B110B3;
+    box-shadow: inset 0px -20px 62px #720E80; }
+  /* line 423, C:/Users/Developer/Desktop/Me/styles.scss */
+  50% {
+    background-color: #B31048;
+    box-shadow: inset 0px -20px 62px #800E29; }
+  /* line 427, C:/Users/Developer/Desktop/Me/styles.scss */
+  60% {
+    background-color: #B31010;
+    box-shadow: inset 0px -20px 62px #800E0E; }
+  /* line 431, C:/Users/Developer/Desktop/Me/styles.scss */
+  70% {
+    background-color: #DDDE06;
+    box-shadow: inset 0px -20px 62px #A1A206; }
+  /* line 435, C:/Users/Developer/Desktop/Me/styles.scss */
+  80% {
+    background-color: #B37B10;
+    box-shadow: inset 0px -20px 62px #80550E; }
+  /* line 439, C:/Users/Developer/Desktop/Me/styles.scss */
+  90% {
+    background-color: #90B310;
+    box-shadow: inset 0px -20px 62px #70800E; }
+  /* line 443, C:/Users/Developer/Desktop/Me/styles.scss */
+  100% {
+    background-color: #36B310;
+    box-shadow: inset 0px -20px 62px #29800E; } }
+
+@-o-keyframes backgroundColor {
+  0% {
+    background-color: #36B310;
+    box-shadow: inset 0px -20px 62px #29800E; }
+  10% {
+    background-color: #10B393;
+    box-shadow: inset 0px -20px 62px #0E8061; }
+  20% {
+    background-color: #109CB3;
+    box-shadow: inset 0px -20px 62px #0E6C80; }
+  30% {
+    background-color: #6F10B3;
+    box-shadow: inset 0px -20px 62px #500E80; }
+  40% {
+    background-color: #B110B3;
+    box-shadow: inset 0px -20px 62px #720E80; }
+  50% {
+    background-color: #B31048;
+    box-shadow: inset 0px -20px 62px #800E29; }
+  60% {
+    background-color: #B31010;
+    box-shadow: inset 0px -20px 62px #800E0E; }
+  70% {
+    background-color: #DDDE06;
+    box-shadow: inset 0px -20px 62px #A1A206; }
+  80% {
+    background-color: #B37B10;
+    box-shadow: inset 0px -20px 62px #80550E; }
+  90% {
+    background-color: #90B310;
+    box-shadow: inset 0px -20px 62px #70800E; }
+  100% {
+    background-color: #36B310;
+    box-shadow: inset 0px -20px 62px #29800E; } }
+
+@keyframes blink {
+  0% {
+    opacity: 1; }
+  50% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
+
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1; }
+  50% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
+
+@-ms-keyframes blink {
+  /* line 519, C:/Users/Developer/Desktop/Me/styles.scss */
+  0% {
+    opacity: 1; }
+  /* line 522, C:/Users/Developer/Desktop/Me/styles.scss */
+  50% {
+    opacity: 0; }
+  /* line 525, C:/Users/Developer/Desktop/Me/styles.scss */
+  100% {
+    opacity: 1; } }
+
+@-moz-keyframes blink {
+  0% {
+    opacity: 1; }
+  50% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
+
+@-o-keyframes blink {
+  0% {
+    opacity: 1; }
+  50% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
+
+@media (min-width: 300px) {
+  /* line 553, C:/Users/Developer/Desktop/Me/styles.scss */
+  body {
+    font-size: 1.1em; } }
+
+@media (min-width: 400px) {
+  /* line 559, C:/Users/Developer/Desktop/Me/styles.scss */
+  body {
+    font-size: 1.2em; } }
+
+@media (min-width: 600px) {
+  /* line 566, C:/Users/Developer/Desktop/Me/styles.scss */
+  body {
+    font-size: 1.3em; } }
+
+@media (min-width: 700px) {
+  /* line 572, C:/Users/Developer/Desktop/Me/styles.scss */
+  body {
+    font-size: 1.4em; } }
+
+@media (min-width: 1150px) {
+  /* line 578, C:/Users/Developer/Desktop/Me/styles.scss */
+  body {
+    font-size: 1.55em; } }
+
+/*# sourceMappingURL=styles.css.map */
