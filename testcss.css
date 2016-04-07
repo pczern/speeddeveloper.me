@@ -202,7 +202,7 @@ body > main {
       margin-left: auto;
       width: 40%;
       border: none; }
-  /* line 206, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 207, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body > main #end {
     border-top: 0.3em solid #8800e9;
     padding: 3em 0% 1em 0%;
@@ -210,46 +210,46 @@ body > main {
     background-image: url("footer_lodyas.png");
     font-family: "Montserrat", sans-serif; }
     @media (max-width: 525px) {
-      /* line 206, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+      /* line 207, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
       body > main #end {
         font-size: 0.8em; } }
   @media (max-width: 525px) and (max-width: 400px) {
-    /* line 206, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+    /* line 207, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
     body > main #end {
       font-size: 0.65em; } }
-    /* line 218, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+    /* line 219, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
     body > main #end h1 {
       width: 100%;
       text-align: center;
       color: #FFF;
       font-size: 1em; }
-      /* line 225, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+      /* line 226, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
       body > main #end h1 span {
         margin-top: 0.8em;
         display: block;
         font-size: 1.8em; }
-  /* line 234, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 235, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body > main #bottom {
     padding: 4em 2.5% 0em 2.5%;
     color: #FFF;
     font-weight: normal; }
-    /* line 238, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+    /* line 239, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
     body > main #bottom p {
       font-family: "Open Sans", sans-serif;
       font-weight: normal;
       font-size: 0.6em;
       width: 100%;
       text-align: right; }
-      /* line 244, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+      /* line 245, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
       body > main #bottom p a {
         color: #00FFFF; }
-  /* line 251, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 252, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body > main #video2 {
     text-align: center;
     /*      padding: 2em 0% 3em;*/
     background-color: #6F00BD;
     /*  box-shadow: 0px -5px 0px 5px #A11CFF;*/ }
-    /* line 258, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+    /* line 259, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
     body > main #video2 h1 {
       padding: 2em 5%;
       line-height: 1.5;
@@ -259,14 +259,14 @@ body > main {
       margin-bottom: 0em;
       width: 90%;
       text-align: center; }
-    /* line 268, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+    /* line 269, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
     body > main #video2 div {
       /*background-color: #6F00BD;*/
       background-color: #FFF;
       background-image: url("geometry.png");
       padding-top: 3.5em;
       padding-bottom: 3em; }
-    /* line 275, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+    /* line 276, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
     body > main #video2 video {
       display: block;
       margin-right: auto;
@@ -274,40 +274,40 @@ body > main {
       width: 40%;
       border: none; }
       @media (max-width: 1400px) {
-        /* line 275, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+        /* line 276, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
         body > main #video2 video {
           width: 60%; } }
       @media (max-width: 900px) {
-        /* line 275, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+        /* line 276, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
         body > main #video2 video {
           width: 80%; } }
-  /* line 293, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 294, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body > main strong {
     font-weight: bold; }
-  /* line 296, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 297, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body > main #experience {
     text-align: center;
     padding: 2em 10% 2.5em;
     clear: both; }
     @media (max-width: 1600px) {
-      /* line 296, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+      /* line 297, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
       body > main #experience {
         padding-right: 3.75%;
         padding-left: 3.75%; } }
-    /* line 307, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+    /* line 308, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
     body > main #experience h1 {
       font-size: 1.55em;
       margin-bottom: 1.5em; }
-    /* line 313, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+    /* line 314, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
     body > main #experience h2 {
       font-size: 1.2em;
       display: none; }
-    /* line 317, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+    /* line 318, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
     body > main #experience h3 {
       font-size: 1em;
       font-family: "Raleway", sans-serif;
       margin-bottom: 0.5em; }
-    /* line 323, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+    /* line 324, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
     body > main #experience p {
       font-family: "Open Sans", sans-serif;
       font-size: 0.7em;
@@ -316,55 +316,55 @@ body > main {
       line-height: 1.6;
       margin-right: auto;
       margin-left: auto; }
-    /* line 333, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+    /* line 334, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
     body > main #experience div:not(.clear) {
       width: 33.33333333333333333333%;
       float: left; }
       @media (max-width: 1000px) {
-        /* line 333, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+        /* line 334, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
         body > main #experience div:not(.clear) {
           float: none;
           width: 100%;
           margin-bottom: 2em; }
-          /* line 340, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+          /* line 341, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
           body > main #experience div:not(.clear) h3 {
             font-size: 1.2em; }
-          /* line 343, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+          /* line 344, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
           body > main #experience div:not(.clear) p {
             font-size: 0.8em;
             line-height: 1.8; } }
-    /* line 353, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+    /* line 354, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
     body > main #experience a {
       color: #000;
       text-decoration: none;
       font-style: italic;
       color: #8800e9; }
-      /* line 360, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+      /* line 361, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
       body > main #experience a:hover {
         text-decoration: underline; }
 
-/* line 367, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 368, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 .clear {
   clear: both; }
 
-/* line 375, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 376, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 a {
   color: #000;
   text-decoration: none;
   font-style: italic;
   color: #8800e9; }
-  /* line 382, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 383, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   a:hover {
     text-decoration: underline; }
 
-/* line 392, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 393, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .skills-container {
   padding-right: 5%;
   padding-right: 5%;
   padding-left: 5%;
   text-align: center; }
 
-/* line 407, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 408, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .mail-container {
   background-color: #131313;
   /*  box-shadow: inset 0px 0px 45px black;*/
@@ -372,21 +372,21 @@ body > main .mail-container {
   line-height: 1.5; }
 
 /* line 200, C:/Users/Developer/Desktop/Me/styles.scss */
-/* line 414, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 415, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .mail-container {
   padding-top: 3.25em;
   padding-bottom: 3.25em; }
   @media (max-width: 700px) {
-    /* line 414, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+    /* line 415, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
     body > main .mail-container {
       padding-top: 2.9em;
       padding-bottom: 2.9em; }
-      /* line 420, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+      /* line 421, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
       body > main .mail-container span {
         display: block; } }
 
 /* line 211, C:/Users/Developer/Desktop/Me/styles.scss */
-/* line 425, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 426, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .mail-container .mail {
   font-size: 1em;
   margin-right: auto;
@@ -394,74 +394,74 @@ body > main .mail-container .mail {
 
 @media (min-width: 450px) {
   /* line 211, C:/Users/Developer/Desktop/Me/styles.scss */
-  /* line 431, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 432, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body > main .mail-container .mail {
     font-size: 1.3em; }
   /* line 220, C:/Users/Developer/Desktop/Me/styles.scss */
-  /* line 434, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 435, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body > main .mail-container .mail i {
     font-size: 1.5em; } }
 
 @media (min-width: 750px) {
   /* line 211, C:/Users/Developer/Desktop/Me/styles.scss */
-  /* line 438, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 439, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body > main .mail-container .mail {
     font-size: 1.4em; } }
 
 @media (min-width: 1800px) {
   /* line 211, C:/Users/Developer/Desktop/Me/styles.scss */
-  /* line 442, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 443, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body > main .mail-container .mail {
     font-size: 1.5em; } }
 
 /* line 233, C:/Users/Developer/Desktop/Me/styles.scss */
-/* line 445, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 446, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .mail-container .mail h2 {
   font-weight: normal;
   color: #FFF; }
 
 /* line 237, C:/Users/Developer/Desktop/Me/styles.scss */
-/* line 449, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 450, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .mail-container .mail i {
   padding-left: 2%;
   display: none; }
 
 @media (min-width: 400px) {
   /* line 237, C:/Users/Developer/Desktop/Me/styles.scss */
-  /* line 454, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 455, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body > main .mail-container .mail i {
     display: inline-block; } }
 
 @media (min-width: 1800px) {
   /* line 237, C:/Users/Developer/Desktop/Me/styles.scss */
-  /* line 458, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 459, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body > main .mail-container .mail i {
     padding-left: 1%;
     font-size: 1.4em; } }
 
 @media (max-width: 999px) {
   /* line 91, C:/Users/Developer/Desktop/Me/styles.scss */
-  /* line 464, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 465, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body > main .skills-container {
     padding-top: 1em;
     padding-bottom: 1em; } }
 
 @media (min-width: 1000px) {
   /* line 91, C:/Users/Developer/Desktop/Me/styles.scss */
-  /* line 469, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 470, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body > main .skills-container {
     padding-top: 1.5em;
     padding-bottom: 1.5em; } }
 
 @media (min-width: 1800px) {
   /* line 91, C:/Users/Developer/Desktop/Me/styles.scss */
-  /* line 474, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 475, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body > main .skills-container {
     padding-top: 1.5em;
     padding-bottom: 2.75em; } }
 
 /* line 109, C:/Users/Developer/Desktop/Me/styles.scss */
-/* line 478, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 479, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .skills-container .skills {
   font-size: 0.8em;
   margin-right: auto;
@@ -469,30 +469,30 @@ body > main .skills-container .skills {
 
 @media (min-width: 450px) {
   /* line 109, C:/Users/Developer/Desktop/Me/styles.scss */
-  /* line 484, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 485, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body > main .skills-container .skills {
     font-size: 0.7em; } }
 
 @media (min-width: 700px) {
   /* line 109, C:/Users/Developer/Desktop/Me/styles.scss */
-  /* line 488, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 489, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body > main .skills-container .skills {
     font-size: 0.7em; } }
 
 @media (min-width: 1300px) {
   /* line 109, C:/Users/Developer/Desktop/Me/styles.scss */
-  /* line 493, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 494, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body > main .skills-container .skills {
     width: 1200px; } }
 
 @media (min-width: 1800px) {
   /* line 109, C:/Users/Developer/Desktop/Me/styles.scss */
-  /* line 497, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 498, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body > main .skills-container .skills {
     width: 1600px; } }
 
 /* line 127, C:/Users/Developer/Desktop/Me/styles.scss */
-/* line 500, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 501, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .skills-container .skills h3 {
   font-weight: normal;
   display: inline-block;
@@ -505,106 +505,106 @@ body > main .skills-container .skills h3 {
   margin: 0.65em 0%; }
 
 /* line 137, C:/Users/Developer/Desktop/Me/styles.scss */
-/* line 511, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 512, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .skills-container .skills h3:hover {
   transform: scale(1.15); }
 
 @media (min-width: 1000px) {
   /* line 127, C:/Users/Developer/Desktop/Me/styles.scss */
-  /* line 515, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 516, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body > main .skills-container .skills h3 {
     padding-right: 3%;
     padding-left: 3%; } }
 
 @media (min-width: 1800px) {
   /* line 127, C:/Users/Developer/Desktop/Me/styles.scss */
-  /* line 520, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 521, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body > main .skills-container .skills h3 {
     padding-right: 1%;
     padding-left: 1%; } }
 
 /* line 149, C:/Users/Developer/Desktop/Me/styles.scss */
-/* line 529, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 530, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .skills-container .skills #java {
   font-size: 1.65em;
   color: #58839F; }
 
 /* line 153, C:/Users/Developer/Desktop/Me/styles.scss */
-/* line 533, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 534, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .skills-container .skills #node-js {
   font-size: 1.5em;
   color: #80BD01; }
 
 /* line 157, C:/Users/Developer/Desktop/Me/styles.scss */
-/* line 537, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 538, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .skills-container .skills #oop {
   font-size: 1.4em; }
 
 /* line 160, C:/Users/Developer/Desktop/Me/styles.scss */
-/* line 540, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 541, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .skills-container .skills #sql {
   color: #044A64;
   font-size: 1.65em; }
 
 /* line 164, C:/Users/Developer/Desktop/Me/styles.scss */
-/* line 544, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 545, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .skills-container .skills #android {
   color: #A4C439;
   font-size: 1.5em; }
 
 /* line 168, C:/Users/Developer/Desktop/Me/styles.scss */
-/* line 548, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 549, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .skills-container .skills #html {
   color: #E34C26;
   font-size: 1.65em; }
 
 /* line 172, C:/Users/Developer/Desktop/Me/styles.scss */
-/* line 552, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 553, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .skills-container .skills #css {
   font-size: 1.65em;
   color: #1572B6; }
 
 /* line 176, C:/Users/Developer/Desktop/Me/styles.scss */
-/* line 556, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 557, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .skills-container .skills #scss {
   font-size: 1.5em;
   color: #CF649A; }
 
 /* line 180, C:/Users/Developer/Desktop/Me/styles.scss */
-/* line 560, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 561, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .skills-container .skills #jquery {
   color: #0868AB;
   font-size: 1.6em; }
 
 /* line 184, C:/Users/Developer/Desktop/Me/styles.scss */
-/* line 564, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 565, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .skills-container .skills #git {
   font-size: 1.4em;
   color: #F05033; }
 
 /* line 188, C:/Users/Developer/Desktop/Me/styles.scss */
-/* line 568, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 569, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .skills-container .skills #wordpress {
   color: #464442;
   font-size: 1.65em; }
 
 /* line 192, C:/Users/Developer/Desktop/Me/styles.scss */
-/* line 572, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 573, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .skills-container .skills #php {
   font-size: 1.1em; }
 
 /* line 195, C:/Users/Developer/Desktop/Me/styles.scss */
-/* line 575, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 576, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .skills-container .skills #javascript {
   font-size: 1.4em; }
 
-/* line 578, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 579, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 body > main .skills-container .skills #python {
   font-size: 1.3em;
   color: #DCDC00; }
 
 /* line 253, C:/Users/Developer/Desktop/Me/styles.scss */
-/* line 586, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+/* line 587, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
 .typed-cursor {
   opacity: 1;
   -webkit-animation: blink 0.7s infinite;
@@ -717,47 +717,47 @@ body > main .skills-container .skills #python {
     /* box-shadow: inset 0px -20px 62px #29800E;*/ } }
 
 @-ms-keyframes backgroundColor {
-  /* line 698, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 699, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   0% {
     background-color: #36B310;
     /* box-shadow: inset 0px -20px 62px #29800E;*/ }
-  /* line 701, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 702, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   10% {
     background-color: #10B393;
     /*    box-shadow: inset 0px -20px 62px #0E8061; */ }
-  /* line 704, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 705, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   20% {
     background-color: #109CB3;
     /*    box-shadow: inset 0px -20px 62px #0E6C80;*/ }
-  /* line 707, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 708, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   30% {
     background-color: #6F10B3;
     /* box-shadow: inset 0px -20px 62px #500E80; */ }
-  /* line 710, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 711, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   40% {
     background-color: #B110B3;
     /* box-shadow: inset 0px -20px 62px #720E80;*/ }
-  /* line 713, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 714, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   50% {
     background-color: #B31048;
     /*    box-shadow: inset 0px -20px 62px #800E29; */ }
-  /* line 716, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 717, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   60% {
     background-color: #B31010;
     /*  box-shadow: inset 0px -20px 62px #800E0E; */ }
-  /* line 719, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 720, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   70% {
     background-color: #DDDE06;
     /*    box-shadow: inset 0px -20px 62px #A1A206; */ }
-  /* line 722, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 723, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   80% {
     background-color: #B37B10;
     /* box-shadow: inset 0px -20px 62px #80550E;*/ }
-  /* line 725, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 726, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   90% {
     background-color: #90B310;
     /*    box-shadow: inset 0px -20px 62px #70800E;*/ }
-  /* line 728, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 729, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   100% {
     background-color: #36B310;
     /* box-shadow: inset 0px -20px 62px #29800E;*/ } }
@@ -817,13 +817,13 @@ body > main .skills-container .skills #python {
   /* line 519, C:/Users/Developer/Desktop/Me/styles.scss */
   /* line 522, C:/Users/Developer/Desktop/Me/styles.scss */
   /* line 525, C:/Users/Developer/Desktop/Me/styles.scss */
-  /* line 785, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 786, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   0% {
     opacity: 1; }
-  /* line 788, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 789, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   50% {
     opacity: 0; }
-  /* line 791, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 792, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   100% {
     opacity: 1; } }
 
@@ -845,31 +845,31 @@ body > main .skills-container .skills #python {
 
 @media (min-width: 300px) {
   /* line 553, C:/Users/Developer/Desktop/Me/styles.scss */
-  /* line 812, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 813, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body {
     font-size: 1.1em; } }
 
 @media (min-width: 400px) {
   /* line 559, C:/Users/Developer/Desktop/Me/styles.scss */
-  /* line 817, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 818, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body {
     font-size: 1.2em; } }
 
 @media (min-width: 600px) {
   /* line 566, C:/Users/Developer/Desktop/Me/styles.scss */
-  /* line 822, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 823, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body {
     font-size: 1.3em; } }
 
 @media (min-width: 700px) {
   /* line 572, C:/Users/Developer/Desktop/Me/styles.scss */
-  /* line 827, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 828, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body {
     font-size: 1.4em; } }
 
 @media (min-width: 1150px) {
   /* line 578, C:/Users/Developer/Desktop/Me/styles.scss */
-  /* line 832, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
+  /* line 833, C:/Users/speedDeveloper/Desktop/work/speeddeveloper.me/testcss.scss */
   body {
     font-size: 1.55em; } }
 
